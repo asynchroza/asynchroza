@@ -1,4 +1,4 @@
-<h3 align="left">MICHAEL BOZHILOV @AmericanUniversityInBulgaria</h3>
+<p align="left">MICHAEL BOZHILOV @AmericanUniversityInBulgaria</p>
 <hr/>
 <div><a href="https://www.linkedin.com/in/mbozhilov/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></div>
 <hr/>
