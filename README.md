@@ -1,5 +1,4 @@
 ## Michael Bozhilov - Михаил
-* * *
 ![](https://komarev.com/ghpvc/?username=asynchroza)
 * * *
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asynchroza&count_private=true&theme=radical)
