@@ -13,6 +13,7 @@
 <a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="right" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
 </p>
 
+<hr/>
 <h3 align="left">🔩 My Tech Stack:</h3>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="50px"/>
