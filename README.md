@@ -15,6 +15,14 @@
 <h3 align="left">🔩 Tech stack:</h3>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50px"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height="50px"/>
+
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asynchroza&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynchroza&theme=radical&layout=compact&hide=css,html)
