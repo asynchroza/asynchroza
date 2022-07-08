@@ -1,4 +1,5 @@
-## Hello there, I am Misho!
+<div align="center"><h1 align="center">Hello there, I'm a Backend SWE Intern at </h1> <a href=""><img src="https://cdn.comparably.com/26860242/l/72913_logo_quickbase.png"/></a></div>
+
 ![](https://komarev.com/ghpvc/?username=asynchroza)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asynchroza&count_private=true&theme=radical)
