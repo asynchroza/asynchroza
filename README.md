@@ -13,7 +13,7 @@
 </p>
 
 <hr/>
-<h3 align="left">🔩 My Tech Stack:</h3>
+<h3 align="left">🔩 My Stack:</h3>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="50px"/>
