@@ -27,7 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" height="50px"/>
-<img src="https://github.com/devicons/devicon/tree/master/icons/circleci" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height="50px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="50px"/>
