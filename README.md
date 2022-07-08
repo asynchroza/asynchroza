@@ -5,9 +5,9 @@
 - 🥸 Likes to talk about **Cloud Systems Development, Golang, Python, Linux/GNU and automation**
 - 🤝 Looking to contribute to **Open Source projects**
 
-<h3 align="left">Shoot me a message here:</h3>
+<h3 align="left">💌 Shoot me a message here if you have any questions or you just want to chat:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismayil-mirzali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
 </p>
 
 
