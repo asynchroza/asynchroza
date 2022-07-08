@@ -6,7 +6,7 @@
 - 🤝 Looking to contribute to **Open Source projects**
 <hr/>
 
-- 🍻 Would love to meet with like-minded people, exchange knowledge and share opinions - hit me up on my socials!
+- 🍻 Would love to meet up with like-minded people, exchange knowledge and share opinions - hit me up on my socials!
 
 <p align="center">
 <a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
@@ -42,5 +42,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asynchroza&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynchroza&theme=radical&layout=compact&hide=css,html)
 
-- 👺😆 **btw i used to use arch but rolling-releases are not for me**
+- 👺😆 **btw i used to daily drive arch but rolling-releases are not for me**
 
