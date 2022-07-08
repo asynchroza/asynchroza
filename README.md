@@ -1,5 +1,7 @@
-<div align="center" display="flex" flex-direction="row"><h1>Hello there, I'm a Backend SWE Intern at </h1><a href=""><img src="https://cdn.comparably.com/26860242/l/72913_logo_quickbase.png"/></a></p></div>
-
+<h1>Hello there, I'm a Backend SWE</h1>
+- 💾 Currently developing **microservices at <a href="https://www.quickbase.com/">QUICKBASE</a> as a SWE Co-Op</a>
+- 🥸 Likes to talk about **Cloud and Tools Development with Golang and Python, Linux/GNU
+- 🤝 Looking to contribute to **Open Source projects
 ![](https://komarev.com/ghpvc/?username=asynchroza)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asynchroza&count_private=true&theme=radical)
