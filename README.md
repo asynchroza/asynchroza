@@ -1,4 +1,4 @@
-<h1 aling="center">Hello there, I'm a Backend Software Engineer</h1>
+<h1 aling="center">👻 Hello there, I'm a Backend Software Engineer</h1>
 
 
 - 💾 Currently developing **Integration channels and Microservices** at **Quickbase** as a SWE Co-Op
