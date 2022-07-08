@@ -2,7 +2,7 @@
 
 
 - 💾 Currently developing **Integration channels and Microservices** at **Quickbase** as a SWE Co-Op
-- 🥸 Likes to talk about **Cloud Systems Development** with **Golang and Python, Linux/GNU and automation**
+- 🥸 Likes to talk about **Cloud Systems Development, Golang, Python, Linux/GNU and automation**
 - 🤝 Looking to contribute to **Open Source projects**
 
 
