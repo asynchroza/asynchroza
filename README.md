@@ -33,9 +33,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height="50px"/>
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/800px-Apache_Feather_Logo.svg.png" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" height="50px"/>
 </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asynchroza&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynchroza&theme=radical&layout=compact&hide=css,html)
 
