@@ -6,7 +6,7 @@
 - 🤝 Looking to contribute to **Open Source projects**
 
 <p align="left">
-<p align="left">Connect with me:</p>
+<h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismayil-mirzali" height="30" width="40" /></a>
 </p>
 
