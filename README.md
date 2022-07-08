@@ -1,6 +1,6 @@
-<h1>Hello there, I'm a Backend SWE</h1>
-- 💾 Currently developing **microservices at <a href="https://www.quickbase.com/">QUICKBASE</a> as a SWE Co-Op</a>
-- 🥸 Likes to talk about **Cloud and Tools Development with Golang and Python, Linux/GNU
+<h1>Hello there, I'm a Backend Software Engineer</h1>
+- 💾 Currently developing **microservices at Quickbase as a SWE Co-Op</a>
+- 🥸 Likes to talk about **Distributed Systems, Cloud and Tools Development with Golang and Python, Linux/GNU
 - 🤝 Looking to contribute to **Open Source projects
 ![](https://komarev.com/ghpvc/?username=asynchroza)
 
