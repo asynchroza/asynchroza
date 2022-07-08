@@ -5,13 +5,12 @@
 - 🥸 Likes to talk about **Cloud Systems Development, Golang, Python, Linux/GNU and automation**
 - 🤝 Looking to contribute to **Open Source projects**
 <hr/>
+![](https://komarev.com/ghpvc/?username=asynchroza)
+
 <p align="center">
 <h4 align="right">💌 Send me a message if you have any questions or you just want to chat:</h4>
 <a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="right" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
 </p>
-
-
-![](https://komarev.com/ghpvc/?username=asynchroza)
 
 <h3 align="left">🔩 My Tech Stack:</h3>
 <p align="left">
