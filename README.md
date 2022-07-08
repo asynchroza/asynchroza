@@ -1,11 +1,9 @@
-<h1 aling="center">👻 Hello there, I'm Misho!</h1>
+<h1 aling="center">👻 Hello there, I'm Misho! <img src="https://komarev.com/ghpvc/?username=asynchroza"/> </h1>
 
 
 - 💾 Currently developing **Integration channels and Microservices** at **Quickbase** as a SWE Co-Op
 - 🥸 Likes to talk about **Cloud Systems Development, Golang, Python, Linux/GNU and automation**
 - 🤝 Looking to contribute to **Open Source projects**
-
-<img src="https://komarev.com/ghpvc/?username=asynchroza"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
