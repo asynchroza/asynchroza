@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=asynchroza)
 
 <p align="center">
-<a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="right" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
+<a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
 </p>
 
 <hr/>
