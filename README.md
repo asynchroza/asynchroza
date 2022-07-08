@@ -1,8 +1,8 @@
 <h1 aling="center">Hello there, I'm a Backend Software Engineer</h1>
 
 
-- 💾 Currently developing **integration channels and microservices at Quickbase as a SWE Co-Op**
-- 🥸 Likes to talk about **Cloud Systems Development with Golang and Python, Linux/GNU**
+- 💾 Currently developing **integration channels and microservices** at Quickbase as a SWE Co-Op
+- 🥸 Likes to talk about **Cloud Systems Development** with Golang and Python, Linux/GNU
 - 🤝 Looking to contribute to **Open Source projects**
 
 
