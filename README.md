@@ -5,9 +5,9 @@
 - 🥸 Likes to talk about **Cloud Systems Development, Golang, Python, Linux/GNU and automation**
 - 🤝 Looking to contribute to **Open Source projects**
 <hr/>
+<p align="center">
 <h4 align="left">💌 Send me a message if you have any questions or you just want to chat:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
+<a href="https://linkedin.com/in/mbozhilov" target="blank"><img align="right" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mbozhilov" height="50" /></a>
 </p>
 
 
