@@ -1,4 +1,4 @@
-<div align="center" display="flex" flex-direction="column" align-items="center" justify-content="center"><h1>Hello there, I'm a Backend SWE Intern at </h1><a href=""><img src="https://cdn.comparably.com/26860242/l/72913_logo_quickbase.png"/></a></p></div>
+<div align="center" display="flex" flex-direction="column" align-items="center"><h1>Hello there, I'm a Backend SWE Intern at </h1><a href=""><img src="https://cdn.comparably.com/26860242/l/72913_logo_quickbase.png"/></a></p></div>
 
 ![](https://komarev.com/ghpvc/?username=asynchroza)
 
