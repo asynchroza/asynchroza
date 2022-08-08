@@ -2,7 +2,7 @@
 
 
 - 💾 Currently developing **Integration channels and Microservices** at **Quickbase** as a SWE Co-Op
-- 💡 Likes to talk about **scalable software projects**, **fintech** and **automation**
+- 💡 Likes to talk about **scalable software projects** and **automation**
 - 🤝 Looking to contribute to **Open Source projects**
 <hr/>
 
